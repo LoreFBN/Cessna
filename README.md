@@ -9,3 +9,4 @@ Manual validation printing the variables and checking if they are correct.
 Interpolating the aerodynamic database (dba) knowing the Angole of Attack (AoA) and calculating the aerodynamic coefficients.
 
 ## 2 - Trim Condition
+Da fare
