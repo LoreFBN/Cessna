@@ -1,7 +1,7 @@
 #ifndef ENGINE_CHECK_H
 #define ENGINE_CHECK_H
 
-void read_engine(char string[20]);
+void read_engine(char *text);
 
 typedef struct database {
     float P_max_sl;
